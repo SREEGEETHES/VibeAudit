@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+config.json
+~/.vibeaudit/
+dist/
+build/
+*.spec
+.streamlit/
+node_modules/
+*.db
